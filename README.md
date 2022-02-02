@@ -3,16 +3,11 @@ System for PSG running based on MySQL server
 
 
 CHANGELOG:
-beta 0.3.2 
-Build date: 2021-01-26 21:19:10
+beta 0.3.3 | DEV
+Quick note:
 
-Kas naujo?
-- Pakeisti slaptažodį (Veikia);
-- Grįžti mygtukas į prisijungti kaip;
-Administratorius:
-	- Vartotojo slaptažodžio pakeitimas;
-	- Suteikti mokytojui prieigą prie tik tos klasės duomenų, kurią mokina.
-
-
-Žinomos problemos (aka bugs):
-- mokiniai negali matyti savo pasiekimų. (indentifikacijos problema)
+more stable;
+admin can change user access to data;
+user (student) cannot take a look of his evaluations.
+Build on
+1st February, 2022 8:30:45PM
