@@ -1,11 +1,11 @@
 CHANGELOG:
+1.0.2 | BETA
+Build date: 2022 Feb 13  12:30PM
 
-1.0.1 | RELEASE
+Kas naujo?:
+- Added separate window for evaluation assigment;
+- Teacher access data with only his teaching subject.
 
-Build date: 2022-02-08 18:50:40
-
-Kas naujo?
-
-- Slaptažodžio priminimas;
-- Sutvarkyta klaida, kai klasės vadovas eksportuoja klasės įverčius;
-- Administratoriaus paskyroje buvo pašalinta 'Keisti vartotojo duomenis'. Vartotojas pats keičia savo slaptažodį, rec_pass pagalba.
+Known bugs:
+- Program may crash when saving evaluations;
+- Administrator cannot make reports due new evaluation system.
