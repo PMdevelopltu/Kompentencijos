@@ -1,11 +1,11 @@
 CHANGELOG:
-1.0.2 | BETA
-Build date: 2022 Feb 13  12:30PM
+1.0.2 | BETA 3
+Build date: 2022 Feb 17  10:12AM
+
+Stabiliam versijos įdiegimui, pašalinkite senąją versiją.
 
 Kas naujo?:
-- Added separate window for evaluation assigment;
-- Teacher access data with only his teaching subject.
+- Sistemos pranešimas.
 
 Known bugs:
-- Program may crash when saving evaluations;
-- Administrator cannot make reports due new evaluation system.
+- Programa gali tapti neaktyvi, kai jungiasi mokytojas.
