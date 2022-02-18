@@ -6,10 +6,10 @@ Stabiliam versijos įdiegimui, pašalinkite senąją versiją.
 
 Kas naujo?:
 
--Sistemos pranešimas;
--Klaidos programoje pranešimas tiesiogiai programos dev.
+- Sistemos pranešimas;
+- Klaidos programoje pranešimas tiesiogiai programos dev.
 
 Žinomi bug'ai:
 
--Programa gali užstrigti, kol siunčiamas pranešimas programos kūrėjui;
--Sistemos pranešimas gali būti nematomas kol programa neišdidinama per visą ekraną.
+- Programa gali užstrigti, kol siunčiamas pranešimas programos kūrėjui;
+- Sistemos pranešimas gali būti nematomas kol programa neišdidinama per visą ekraną.
