@@ -16,3 +16,13 @@ Sistemos pranešimas;
 
 - Programa gali užstrigti, kol siunčiamas pranešimas programos kūrėjui;
 - Sistemos pranešimas gali būti nematomas kol programa neišdidinama per visą ekraną.
+
+
+CHANGELOG
+
+V1.0.3 | RELEASE - Mokiniai
+
+Kas naujo?
+
+- Kompetencijų įrašymas;
+- Kompetencijų kriterijai įkeliami iš interneto.
