@@ -9,7 +9,7 @@ Kas naujo?
 - Naujas dizainas;
 - Optimizuota programa, mažiau stringa;
 - Prisijungimo langas dabar yra tik vienas.
-- 
+
 Žinomi bug'ai:
 
 - Rec_pass available only for teachers.**
