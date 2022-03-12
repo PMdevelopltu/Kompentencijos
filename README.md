@@ -4,17 +4,20 @@ Build date: 2022 Mar 12 0:12AM
 
 Stabiliam versijos įdiegimui, pašalinkite senąją versiją.
 
-Kas naujo?:
+Kas naujo?
 
-Naujas dizainas;
-Optimizuota programa, mažiau stringa;
-Prisijungimo langas dabar yra tik vienas.
+- Naujas dizainas;
+- Optimizuota programa, mažiau stringa;
+- Prisijungimo langas dabar yra tik vienas.
+- 
 Žinomi bug'ai:
 
-Rec_pass available only for teachers.**
+- Rec_pass available only for teachers.**
 
 CHANGELOG:
+
 1.0.3 | RELEASE
+
 Build date: 2022 Mar 11 10:12AM
 
 Stabiliam versijos įdiegimui, pašalinkite senąją versiją.
