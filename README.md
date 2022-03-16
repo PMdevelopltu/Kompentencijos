@@ -1,18 +1,16 @@
-**CHANGELOG:
-1.0.4 | BETA
-Build date: 2022 Mar 12 0:12AM
+CHANGELOG:
+1.0.4 | BETA 3
+Build date: 2022 Mar 16 12:01PM
 
 Stabiliam versijos įdiegimui, pašalinkite senąją versiją.
 
-Kas naujo?
+Kas naujo?:
 
-- Naujas dizainas;
-- Optimizuota programa, mažiau stringa;
-- Prisijungimo langas dabar yra tik vienas.
-
+- Pridėtas automatinis programos atnijinimas.
 Žinomi bug'ai:
 
-- Rec_pass available only for teachers.**
+- Rec_pass available only for teachers.
+NOTE: Grafinė šios programos bus išleista vėliau.
 
 CHANGELOG:
 
