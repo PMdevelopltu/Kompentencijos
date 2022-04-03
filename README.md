@@ -1,44 +1,9 @@
-CHANGELOG:
-1.0.4 | BETA 3
-Build date: 2022 Mar 16 12:01PM
-
-Stabiliam versijos įdiegimui, pašalinkite senąją versiją.
-
-Kas naujo?:
-
-- Pridėtas automatinis programos atnijinimas.
-Žinomi bug'ai:
-
-- Rec_pass available only for teachers.
-NOTE: Grafinė šios programos bus išleista vėliau.
-
-CHANGELOG:
-
-1.0.3 | RELEASE
-
-Build date: 2022 Mar 11 10:12AM
-
-Stabiliam versijos įdiegimui, pašalinkite senąją versiją.
-
-- Mokinio prisijungimas yra pašalintas iš šios versijos. Mokiniams prisijungti kuriama atskira programa.
-
-Kas naujo?:
-
-Sistemos pranešimas;
-- Klaidos programoje pranešimas tiesiogiai programos dev;
-- Diagramos braižymas (RANKINIS BŪDAS);
-- Naujas dizainas.
-Žinomi bug'ai:
-
-- Programa gali užstrigti, kol siunčiamas pranešimas programos kūrėjui;
-- Sistemos pranešimas gali būti nematomas kol programa neišdidinama per visą ekraną.
-
-
-CHANGELOG
-
-V1.0.3 | RELEASE - Mokiniai
+CHANGELOG V1.0.5 RELEASE
 
 Kas naujo?
 
-- Kompetencijų įrašymas;
-- Kompetencijų kriterijai įkeliami iš interneto.
+- automatinis diagramų braižymas su sqlDashboards programa (atsisiųsti iš interneto).
+
+Sutvarkytos programos klaidos:
+
+- Slaptažodžio keitimas (per rec_pass) galimas ir administratoriui.
