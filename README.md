@@ -1,1 +1,2 @@
-###PROJECT IS NO LONGER IN DEVELOPMENT###
+###Project is temporary suspended  due lack of internal resouces###
+
