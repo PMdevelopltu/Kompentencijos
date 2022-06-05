@@ -8,9 +8,6 @@ v1.0.6 | BETA 1 (Internal BETA)
 
 - pakeista programos stuktūra.
 
-
-
-
 ### Susisiekime:
 Su manimi galite susisiekti el. pašto adresu:
 paulius@personalwalkers.onmicrosoft.com
