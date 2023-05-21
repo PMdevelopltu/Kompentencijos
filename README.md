@@ -1,4 +1,4 @@
-****No longer maintained****
+****No longer maintained, for now.****
 
 
 v1.0.6 | BETA 1
